@@ -1,2 +1,0 @@
-modificar expresion regular
-toast de error al restablecer contraseña y el correo no es valido
